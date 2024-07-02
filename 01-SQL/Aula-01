@@ -1,0 +1,12 @@
+# Resumo de SQL - Aula 1
+
+## Tópicos Abordados
+- **Introdução ao SQL**: O que é SQL e sua importância.
+- **Comandos Básicos**:
+  - `SELECT`: Usado para selecionar dados de um banco de dados.
+  - `FROM`: Especifica a tabela a ser consultada.
+  - `WHERE`: Filtro de registros baseados em uma condição.
+
+## Exemplos
+```sql
+SELECT nome, idade FROM usuarios WHERE idade > 21;
